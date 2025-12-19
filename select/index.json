@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フロム天国",
+  "base_artist": "理芽 feat. EMA",
+  "createdAt": "2025-12-19T16:41:17.430841Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フロム天国",
+      "artist": "理芽, EMA",
+      "has_synced": false,
+      "path": "select/pl_01_フロム天国_理芽,_EMA.txt"
+    }
+  ]
+}
